@@ -1,0 +1,28 @@
+/* Structure of doubly linked list Node
+class Node {
+public:
+    int data;
+    Node next;
+    Node prev;
+
+    public Node(int x) {
+        data = x;
+        next = null;
+        prev = null;
+    }
+};*/
+class Solution {
+    Node deleteHead(Node head) {
+        if (head == null) {
+            return null;
+        }
+
+        head = head.next;
+        
+        if (head != null) {
+            head.prev = null;
+        }
+
+        return head;
+    }
+}
