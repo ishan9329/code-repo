@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/ishan9329/code-repo/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ishan9329/code-repo/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ishan9329/code-repo/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/ishan9329/code-repo/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,12 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ishan9329/code-repo/tree/master/0066-plus-one) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ishan9329/code-repo/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ishan9329/code-repo/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
