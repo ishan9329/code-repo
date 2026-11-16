@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/ishan9329/code-repo/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ishan9329/code-repo/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ishan9329/code-repo/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/ishan9329/code-repo/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ishan9329/code-repo/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
@@ -32,9 +33,18 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ishan9329/code-repo/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ishan9329/code-repo/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ishan9329/code-repo/tree/master/0682-baseball-game) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ishan9329/code-repo/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ishan9329/code-repo/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
